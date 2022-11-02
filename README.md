@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Kbauer23
-- 👀 I’m interested em HTML,CSS,JAVASCRIPT.
-- 🌱 I’m currently learnin o basico de programação  web.
-- 📫 How to reach me https://www.linkedin.com/in/kayke-bauer-santana-marins-94294a192
+
+- Sou o Kayke Bauer, tenho 19 anos... EstudoADS na Fatec Jundiai.
+- Atualmente faço o curso Discover da Rocketseat.
+- Estou em busca do meu primeiro emprego.
+- Contatos:  
+    Linkedin https://www.linkedin.com/in/kayke-bauer-santana-marins-94294a192/
+    Email bauer.kaykemarins@gmail.com
+    Instagram @kbauer.marins
+
 
 <!---
 Kbauer23/Kbauer23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
