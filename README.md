@@ -10,7 +10,7 @@
 <body>
 Ola Devs, Sou o Kayke Bauer, tenho 19 anos, estou cursando atualmente meu 3° Semestre de Analise e Desenvolvimento de Sistemas, na Fatec Jundiai.
 
-<h2>Tecnologias</h2>
+<h2>TECNOLOGIAS</h2>
 
 <div>
 <a href="https://github.com/Kbauer23">
