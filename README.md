@@ -1,4 +1,4 @@
-Ola Devs, Sou o Kayke Bauer, tenho 19 anos, estou cursando atualmente meu 3° Semestre de Analise e Desenvolvimento de Sistemas, na Fatec Jundiai.
+Ola Devs, Sou o Kayke Bauer, tenho 20 anos, estou cursando atualmente o 5° Semestre de Analise e Desenvolvimento de Sistemas, na Fatec Jundiai.
 
 <h2>PLATAFORMAS DE ESTUDO</h2>
 <div>
