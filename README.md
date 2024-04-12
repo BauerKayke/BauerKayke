@@ -27,16 +27,16 @@ Ola Devs, Sou o Kayke Bauer, tenho 20 anos, estou cursando atualmente o 5° Seme
 </div>
 <br>
 <div>
-<a href="https://github.com/Kbauer23">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbauer23&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kbauer23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/BauerKayke">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BauerKayke&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BauerKayke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <div>
   <h3>Contatos:</h3>
    <br>
 <a href="https://www.instagram.com/kbauer.marins/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kayke-bauer-santana-marins-94294a192/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/BauerKayke/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
